@@ -17,11 +17,9 @@
   
 ---
 
-## 📌 프로젝트 개요
-
 **목표**: 사용자가 상품을 검색하고, 장바구니에 담고, 결제까지 할 수 있는 쇼핑몰 서비스 구현
 
-**참여 인원**: 총 5명 (프론트 1, 백엔드 2, 풀스택 2)
+**참여 인원**: 5명 (프론트 1, 백엔드 2, 풀스택 2)
 
 **진행 기간**: 2025.02 ~ 진행중
 
@@ -29,39 +27,38 @@
 
 ---
 
-## 🧰 사용 기술 스택
+## 🧰 Skills
 
-### 🔗 프론트엔드
+### Front-End
 - React / Vite
 - Zustand / React Router
 - CoreUI
 
-### 🔧 백엔드
+### Back-End
 - Java / Spring Boot
 - MySQL / Redis
 
-### ☁️ 인프라 & 배포
+### ETC
 - AWS EC2 / S3
 - GitHub Actions (CI/CD)
 - Docker / Nginx
 
 ---
 
-## 📐 아키텍처
-
-![architecture](./docs/jle_service_flow.png)
-
+## 📐 Architecture
 > 전체 서비스는 Front, API, DB, Storage, CI/CD 등으로 구성되며, Docker 기반 컨테이너 환경에서 운영됩니다.
 
+<img width="3408" height="1684" alt="jle_service_flow" src="https://github.com/user-attachments/assets/12e2e2dd-1789-4613-a5a8-8cdfce5e8905" />
+
+<img width="3528" height="1964" alt="jle_cicd_flow" src="https://github.com/user-attachments/assets/fa51c819-e9df-4ff2-8875-0588290ca8f0" />
+
+|<h2>ERD</h2>|
+|---|
+|<img width="6100" height="3872" alt="jle_erd" src="https://github.com/user-attachments/assets/cf7a4799-3519-4147-bf0d-1902f6d3e551" />|
+
 ---
 
-![cicd](./docs/jle_cicd_flow.png)
-
----
-
-![erd](./docs/jle_erd.png)
-
-## 📦 주요 기능
+## 📦 Feature
 
 | 기능 구분 | 설명 |
 |----------|------|
@@ -74,7 +71,7 @@
 
 ---
 
-## 🗂️ 문서 모음
+## 🗂️ Doc
 
 - [프로젝트 업무 및 일정 관리](지라 링크)
 - [회의록 관리 (지라링크)](https://shoppingmall-platform.atlassian.net/jira/software/projects/JLE/boards/1/backlog?atlOrigin=eyJpIjoiZDdiZWQ1N2ZmODA4NDI4ZTk1YmQ0ZGU2MTFhZGRiNjUiLCJwIjoiaiJ9)
