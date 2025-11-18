@@ -49,16 +49,17 @@
 
 ## 📐 아키텍처
 
-![architecture](./docs/images/architecture.png)
+![architecture](./docs/jle_service_flow.png)
 
 > 전체 서비스는 Front, API, DB, Storage, CI/CD 등으로 구성되며, Docker 기반 컨테이너 환경에서 운영됩니다.
 
 ---
 
-## 💿 CI / CD 파이프라인
-![cicd](./docs/images/cicd.png)
+![cicd](./docs/jle_cicd_flow.png)
 
 ---
+
+![erd](./docs/jle_erd.png)
 
 ## 📦 주요 기능
 
