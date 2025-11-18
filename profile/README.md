@@ -37,9 +37,8 @@
 - CoreUI
 
 ### 🔧 백엔드
-- Java (Spring Boot)
-- MySQL / Spring Data JPA
-- JWT 인증
+- Java / Spring Boot
+- MySQL / Redis
 
 ### ☁️ 인프라 & 배포
 - AWS EC2 / S3
