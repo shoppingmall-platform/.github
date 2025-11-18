@@ -77,8 +77,8 @@
 ## 🗂️ 문서 모음
 
 - [프로젝트 업무 및 일정 관리](지라 링크)
-- [회의록 관리](지라링크)
-- [화면 설계 및 API 명세 (Figma 링크)](https://www.figma.com/file/xxxxx)
+- [회의록 관리]([지라링크](https://shoppingmall-platform.atlassian.net/jira/software/projects/JLE/boards/1/backlog?atlOrigin=eyJpIjoiZDdiZWQ1N2ZmODA4NDI4ZTk1YmQ0ZGU2MTFhZGRiNjUiLCJwIjoiaiJ9))
+- [화면 설계 및 API 명세 (Figma 링크)]([https://www.figma.com/file/xxxxx](https://www.figma.com/design/JYtGE1TJPcmedovII07oI7/jle?node-id=0-1&t=dgiYvqvUmTTisRpL-1))
 
 - [프로젝트 트러블슈팅](깃허브 프로젝트 링크)
 - [서버 스펙 및 보안 정보](관리자 권한 링크)
