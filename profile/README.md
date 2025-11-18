@@ -32,9 +32,9 @@
 ## 🧰 사용 기술 스택
 
 ### 🔗 프론트엔드
-- React / Next.js
-- TypeScript
-- Tailwind CSS
+- React / Vite
+- Zustand / React Router
+- CoreUI
 
 ### 🔧 백엔드
 - Java (Spring Boot)
