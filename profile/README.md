@@ -73,8 +73,8 @@
 
 ## 🗂️ Doc
 
-- [프로젝트 업무 및 일정 관리](지라 링크)
-- 회의록 관리 [(jira)](https://shoppingmall-platform.atlassian.net/jira/software/projects/JLE/boards/1/backlog?atlOrigin=eyJpIjoiZDdiZWQ1N2ZmODA4NDI4ZTk1YmQ0ZGU2MTFhZGRiNjUiLCJwIjoiaiJ9)
+- 프로젝트 업무 및 일정 관리 [(지라 링크)](https://shoppingmall-platform.atlassian.net/jira/software/projects/JLE/boards/1/backlog)
+- 회의록 관리 [(jira)](https://shoppingmall-platform.atlassian.net/wiki/spaces/J/pages/46596113)
 - 화면 설계 및 API 명세 [(Figma)](https://www.figma.com/design/JYtGE1TJPcmedovII07oI7/jle?node-id=0-1&t=dgiYvqvUmTTisRpL-1)
 
 </div>
