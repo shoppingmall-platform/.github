@@ -39,7 +39,7 @@
 - MySQL / Redis
 
 ### ETC
-- AWS EC2 / S3
+- Oracle Cloud
 - GitHub Actions (CI/CD)
 - Docker / Nginx
 
